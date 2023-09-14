@@ -1,0 +1,776 @@
+State,Branch,Average Base Salary
+Andra Pradesh,Computer Science,2.82
+Andra Pradesh,Software Engineering,6.85
+Andra Pradesh,Digital Marketing,2.45
+Andra Pradesh,Web Designer,2.56
+Andra Pradesh,Machine Learning,3.23
+Andra Pradesh,Data Science,13.12
+Andra Pradesh,Information Technology,8.84
+Andra Pradesh,Analytics,3.52
+Andra Pradesh,Database management,4.08
+Andra Pradesh,Cybersecurity,3.87
+Andra Pradesh,Automation,5.73
+Andra Pradesh,Electronics & Telecommunication,2.24
+Andra Pradesh,Instrumentation ,4.81
+Andra Pradesh,Embedded Systems,5.02
+Andra Pradesh,Robotics,1.87
+Andra Pradesh,Telecommunications,2.34
+Andra Pradesh,Civil ,4.35
+Andra Pradesh,Structural Engineering,3.5
+Andra Pradesh,Geotechnical Engineering,2.91
+Andra Pradesh,Environmental Engineering,3.65
+Andra Pradesh,Water Resource Engineering,5.15
+Andra Pradesh,Mechanical ,6.14
+Andra Pradesh,Aerospace,4.79
+Andra Pradesh,Mechanical Design,4.54
+Andra Pradesh,Manufacturing ,3.78
+Arunachal Pradesh,Computer Science,2.98
+Arunachal Pradesh,Software Engineering,8.52
+Arunachal Pradesh,Digital Marketing,2.55
+Arunachal Pradesh,Web Designer,9.21
+Arunachal Pradesh,Machine Learning,4.12
+Arunachal Pradesh,Data Science,5.49
+Arunachal Pradesh,Information Technology,4.58
+Arunachal Pradesh,Analytics,3.07
+Arunachal Pradesh,Database management,4.15
+Arunachal Pradesh,Cybersecurity,4.88
+Arunachal Pradesh,Automation,6.47
+Arunachal Pradesh,Electronics & Telecommunication,3.1
+Arunachal Pradesh,Instrumentation ,4.22
+Arunachal Pradesh,Embedded Systems,5.02
+Arunachal Pradesh,Robotics,2.93
+Arunachal Pradesh,Telecommunications,1.52
+Arunachal Pradesh,Civil ,9.5
+Arunachal Pradesh,Structural Engineering,4.38
+Arunachal Pradesh,Geotechnical Engineering,5.38
+Arunachal Pradesh,Environmental Engineering,3.72
+Arunachal Pradesh,Water Resource Engineering,5.24
+Arunachal Pradesh,Mechanical ,4.4
+Arunachal Pradesh,Aerospace,5.02
+Arunachal Pradesh,Mechanical Design,3.66
+Arunachal Pradesh,Manufacturing ,3.82
+Assam,Computer Science,1.97
+Assam,Software Engineering,4.53
+Assam,Digital Marketing,2.53
+Assam,Web Designer,4.9
+Assam,Machine Learning,3.97
+Assam,Data Science,5.29
+Assam,Information Technology,2.93
+Assam,Analytics,2.48
+Assam,Database management,4
+Assam,Cybersecurity,4.5
+Assam,Automation,8.15
+Assam,Electronics & Telecommunication,3.04
+Assam,Instrumentation ,4.67
+Assam,Embedded Systems,5.02
+Assam,Robotics,2.42
+Assam,Telecommunications,2.66
+Assam,Civil ,4.51
+Assam,Structural Engineering,4.21
+Assam,Geotechnical Engineering,5.18
+Assam,Environmental Engineering,3.58
+Assam,Water Resource Engineering,5.04
+Assam,Mechanical ,6.04
+Assam,Aerospace,5.02
+Assam,Mechanical Design,2.31
+Assam,Manufacturing ,7
+Bihar,Computer Science,2.79
+Bihar,Software Engineering,4.16
+Bihar,Digital Marketing,2.24
+Bihar,Web Designer,2.39
+Bihar,Machine Learning,2.51
+Bihar,Data Science,3.99
+Bihar,Information Technology,2.39
+Bihar,Analytics,1.53
+Bihar,Database management,3.63
+Bihar,Cybersecurity,4.26
+Bihar,Automation,2.63
+Bihar,Electronics & Telecommunication,1.83
+Bihar,Instrumentation ,3.69
+Bihar,Embedded Systems,7.43
+Bihar,Robotics,3.1
+Bihar,Telecommunications,3.15
+Bihar,Civil ,3.49
+Bihar,Structural Engineering,2.93
+Bihar,Geotechnical Engineering,6.03
+Bihar,Environmental Engineering,3.23
+Bihar,Water Resource Engineering,4.58
+Bihar,Mechanical ,5.84
+Bihar,Aerospace,5.02
+Bihar,Mechanical Design,3.39
+Bihar,Manufacturing ,3.21
+Chhattisgarh,Computer Science,2.17
+Chhattisgarh,Software Engineering,3.92
+Chhattisgarh,Digital Marketing,2.55
+Chhattisgarh,Web Designer,2.4
+Chhattisgarh,Machine Learning,3.83
+Chhattisgarh,Data Science,3.55
+Chhattisgarh,Information Technology,4.65
+Chhattisgarh,Analytics,2.58
+Chhattisgarh,Database management,3.86
+Chhattisgarh,Cybersecurity,4.53
+Chhattisgarh,Automation,5.61
+Chhattisgarh,Electronics & Telecommunication,3.14
+Chhattisgarh,Instrumentation ,2.84
+Chhattisgarh,Embedded Systems,9.35
+Chhattisgarh,Robotics,2.54
+Chhattisgarh,Telecommunications,2.74
+Chhattisgarh,Civil ,2.97
+Chhattisgarh,Structural Engineering,3.23
+Chhattisgarh,Geotechnical Engineering,5
+Chhattisgarh,Environmental Engineering,3.45
+Chhattisgarh,Water Resource Engineering,4.87
+Chhattisgarh,Mechanical ,6.12
+Chhattisgarh,Aerospace,5.02
+Chhattisgarh,Mechanical Design,2.83
+Chhattisgarh,Manufacturing ,3.3
+Goa,Computer Science,2.15
+Goa,Software Engineering,5.06
+Goa,Digital Marketing,2.93
+Goa,Web Designer,2.96
+Goa,Machine Learning,4
+Goa,Data Science,5.33
+Goa,Information Technology,4.45
+Goa,Analytics,2.73
+Goa,Database management,5.61
+Goa,Cybersecurity,4.74
+Goa,Automation,4.53
+Goa,Electronics & Telecommunication,2.45
+Goa,Instrumentation ,5.05
+Goa,Embedded Systems,5.3
+Goa,Robotics,2.84
+Goa,Telecommunications,2.47
+Goa,Civil ,3.84
+Goa,Structural Engineering,7.43
+Goa,Geotechnical Engineering,5.23
+Goa,Environmental Engineering,3.61
+Goa,Water Resource Engineering,5.09
+Goa,Mechanical ,6.43
+Goa,Aerospace,5.02
+Goa,Mechanical Design,3.56
+Goa,Manufacturing ,3.88
+Gujarat,Computer Science,2.53
+Gujarat,Software Engineering,3.69
+Gujarat,Digital Marketing,2.84
+Gujarat,Web Designer,3.02
+Gujarat,Machine Learning,4.71
+Gujarat,Data Science,5.01
+Gujarat,Information Technology,2.48
+Gujarat,Analytics,2.68
+Gujarat,Database management,3.65
+Gujarat,Cybersecurity,4.39
+Gujarat,Automation,4.85
+Gujarat,Electronics & Telecommunication,2.47
+Gujarat,Instrumentation ,4.12
+Gujarat,Embedded Systems,8.52
+Gujarat,Robotics,1.63
+Gujarat,Telecommunications,1.68
+Gujarat,Civil ,3.7
+Gujarat,Structural Engineering,7.64
+Gujarat,Geotechnical Engineering,8.43
+Gujarat,Environmental Engineering,3.04
+Gujarat,Water Resource Engineering,5.47
+Gujarat,Mechanical ,5.27
+Gujarat,Aerospace,4.92
+Gujarat,Mechanical Design,2.66
+Gujarat,Manufacturing ,4.36
+Haryana,Computer Science,2.19
+Haryana,Software Engineering,7.6
+Haryana,Digital Marketing,3.17
+Haryana,Web Designer,2.82
+Haryana,Machine Learning,6.36
+Haryana,Data Science,9.91
+Haryana,Information Technology,4.16
+Haryana,Analytics,15.91
+Haryana,Database management,2.62
+Haryana,Cybersecurity,10.41
+Haryana,Automation,8.36
+Haryana,Electronics & Telecommunication,3.16
+Haryana,Instrumentation ,3.7
+Haryana,Embedded Systems,10.4
+Haryana,Robotics,4.51
+Haryana,Telecommunications,3.08
+Haryana,Civil ,4.1
+Haryana,Structural Engineering,7.25
+Haryana,Geotechnical Engineering,6.57
+Haryana,Environmental Engineering,2.76
+Haryana,Water Resource Engineering,6
+Haryana,Mechanical ,5.88
+Haryana,Aerospace,4.76
+Haryana,Mechanical Design,2.84
+Haryana,Manufacturing ,3.74
+Himachal Pradesh,Computer Science,2.4
+Himachal Pradesh,Software Engineering,4.72
+Himachal Pradesh,Digital Marketing,2.48
+Himachal Pradesh,Web Designer,2.81
+Himachal Pradesh,Machine Learning,3.92
+Himachal Pradesh,Data Science,5.22
+Himachal Pradesh,Information Technology,4.36
+Himachal Pradesh,Analytics,2.04
+Himachal Pradesh,Database management,3.95
+Himachal Pradesh,Cybersecurity,4.64
+Himachal Pradesh,Automation,7.42
+Himachal Pradesh,Electronics & Telecommunication,1.84
+Himachal Pradesh,Instrumentation ,5.5
+Himachal Pradesh,Embedded Systems,10.34
+Himachal Pradesh,Robotics,2.78
+Himachal Pradesh,Telecommunications,1.93
+Himachal Pradesh,Civil ,4.92
+Himachal Pradesh,Structural Engineering,4.16
+Himachal Pradesh,Geotechnical Engineering,5.12
+Himachal Pradesh,Environmental Engineering,3.86
+Himachal Pradesh,Water Resource Engineering,4.98
+Himachal Pradesh,Mechanical ,6.09
+Himachal Pradesh,Aerospace,3.74
+Himachal Pradesh,Mechanical Design,3.48
+Himachal Pradesh,Manufacturing ,3.63
+Jammu and Kashmir,Computer Science,2.99
+Jammu and Kashmir,Software Engineering,5.3
+Jammu and Kashmir,Digital Marketing,2.98
+Jammu and Kashmir,Web Designer,4.52
+Jammu and Kashmir,Machine Learning,4.13
+Jammu and Kashmir,Data Science,5.51
+Jammu and Kashmir,Information Technology,4.59
+Jammu and Kashmir,Analytics,3.08
+Jammu and Kashmir,Database management,5.79
+Jammu and Kashmir,Cybersecurity,4.89
+Jammu and Kashmir,Automation,6.63
+Jammu and Kashmir,Electronics & Telecommunication,2.25
+Jammu and Kashmir,Instrumentation ,4.23
+Jammu and Kashmir,Embedded Systems,10.34
+Jammu and Kashmir,Robotics,2.93
+Jammu and Kashmir,Telecommunications,2.07
+Jammu and Kashmir,Civil ,4.07
+Jammu and Kashmir,Structural Engineering,4.39
+Jammu and Kashmir,Geotechnical Engineering,5.39
+Jammu and Kashmir,Environmental Engineering,3.73
+Jammu and Kashmir,Water Resource Engineering,5.25
+Jammu and Kashmir,Mechanical ,5.98
+Jammu and Kashmir,Aerospace,3.74
+Jammu and Kashmir,Mechanical Design,2.14
+Jammu and Kashmir,Manufacturing ,3.83
+Jharkhand,Computer Science,1.58
+Jharkhand,Software Engineering,4.64
+Jharkhand,Digital Marketing,2.6
+Jharkhand,Web Designer,6.8
+Jharkhand,Machine Learning,3.88
+Jharkhand,Data Science,12.97
+Jharkhand,Information Technology,5.75
+Jharkhand,Analytics,4.05
+Jharkhand,Database management,3.74
+Jharkhand,Cybersecurity,1.54
+Jharkhand,Automation,4.59
+Jharkhand,Electronics & Telecommunication,3.56
+Jharkhand,Instrumentation ,3.3
+Jharkhand,Embedded Systems,10.34
+Jharkhand,Robotics,3.37
+Jharkhand,Telecommunications,4.66
+Jharkhand,Civil ,3.91
+Jharkhand,Structural Engineering,2.9
+Jharkhand,Geotechnical Engineering,5.07
+Jharkhand,Environmental Engineering,3.5
+Jharkhand,Water Resource Engineering,4.93
+Jharkhand,Mechanical ,5.68
+Jharkhand,Aerospace,3.72
+Jharkhand,Mechanical Design,2.98
+Jharkhand,Manufacturing ,2.68
+Karnataka,Computer Science,3.36
+Karnataka,Software Engineering,6.35
+Karnataka,Digital Marketing,3.48
+Karnataka,Web Designer,3.27
+Karnataka,Machine Learning,8.91
+Karnataka,Data Science,17.76
+Karnataka,Information Technology,19.12
+Karnataka,Analytics,8.81
+Karnataka,Database management,8.6
+Karnataka,Cybersecurity,8.65
+Karnataka,Automation,6.42
+Karnataka,Electronics & Telecommunication,2.83
+Karnataka,Instrumentation ,4.76
+Karnataka,Embedded Systems,6.68
+Karnataka,Robotics,2.83
+Karnataka,Telecommunications,4.09
+Karnataka,Civil ,3.42
+Karnataka,Structural Engineering,3.56
+Karnataka,Geotechnical Engineering,4.01
+Karnataka,Environmental Engineering,2.88
+Karnataka,Water Resource Engineering,3.92
+Karnataka,Mechanical ,5.94
+Karnataka,Aerospace,3.34
+Karnataka,Mechanical Design,3.06
+Karnataka,Manufacturing ,4.15
+Kerala,Computer Science,2.63
+Kerala,Software Engineering,4.75
+Kerala,Digital Marketing,2.68
+Kerala,Web Designer,2.78
+Kerala,Machine Learning,4.86
+Kerala,Data Science,2.46
+Kerala,Information Technology,2.83
+Kerala,Analytics,2.64
+Kerala,Database management,4.14
+Kerala,Cybersecurity,6.88
+Kerala,Automation,4.11
+Kerala,Electronics & Telecommunication,2.45
+Kerala,Instrumentation ,2.64
+Kerala,Embedded Systems,5.2
+Kerala,Robotics,4.43
+Kerala,Telecommunications,2.34
+Kerala,Civil ,2.71
+Kerala,Structural Engineering,3.4
+Kerala,Geotechnical Engineering,3.71
+Kerala,Environmental Engineering,3.32
+Kerala,Water Resource Engineering,11.29
+Kerala,Mechanical ,6.33
+Kerala,Aerospace,4.95
+Kerala,Mechanical Design,3.23
+Kerala,Manufacturing ,3.27
+Madhya Pradesh,Computer Science,4.31
+Madhya Pradesh,Software Engineering,4.01
+Madhya Pradesh,Digital Marketing,2.42
+Madhya Pradesh,Web Designer,2.68
+Madhya Pradesh,Machine Learning,6.92
+Madhya Pradesh,Data Science,4.71
+Madhya Pradesh,Information Technology,2.2
+Madhya Pradesh,Analytics,3.12
+Madhya Pradesh,Database management,3.61
+Madhya Pradesh,Cybersecurity,2.76
+Madhya Pradesh,Automation,6.5
+Madhya Pradesh,Electronics & Telecommunication,2.2
+Madhya Pradesh,Instrumentation ,3.03
+Madhya Pradesh,Embedded Systems,5.78
+Madhya Pradesh,Robotics,3.32
+Madhya Pradesh,Telecommunications,2.69
+Madhya Pradesh,Civil ,3.14
+Madhya Pradesh,Structural Engineering,2.41
+Madhya Pradesh,Geotechnical Engineering,5.28
+Madhya Pradesh,Environmental Engineering,1.94
+Madhya Pradesh,Water Resource Engineering,5.14
+Madhya Pradesh,Mechanical ,5.34
+Madhya Pradesh,Aerospace,3.31
+Madhya Pradesh,Mechanical Design,3.64
+Madhya Pradesh,Manufacturing ,4.42
+Maharashtra,Computer Science,4.37
+Maharashtra,Software Engineering,4.01
+Maharashtra,Digital Marketing,2.42
+Maharashtra,Web Designer,2.68
+Maharashtra,Machine Learning,6.92
+Maharashtra,Data Science,4.71
+Maharashtra,Information Technology,2.2
+Maharashtra,Analytics,3.12
+Maharashtra,Database management,5.66
+Maharashtra,Cybersecurity,2.76
+Maharashtra,Automation,6.5
+Maharashtra,Electronics & Telecommunication,2.2
+Maharashtra,Instrumentation ,3.03
+Maharashtra,Embedded Systems,5.78
+Maharashtra,Robotics,3.32
+Maharashtra,Telecommunications,2.69
+Maharashtra,Civil ,3.41
+Maharashtra,Structural Engineering,2.41
+Maharashtra,Geotechnical Engineering,5.28
+Maharashtra,Environmental Engineering,1.94
+Maharashtra,Water Resource Engineering,5.14
+Maharashtra,Mechanical ,5.34
+Maharashtra,Aerospace,4.31
+Maharashtra,Mechanical Design,3.64
+Maharashtra,Manufacturing ,4.42
+Manipur,Computer Science,2.87
+Manipur,Software Engineering,5.6
+Manipur,Digital Marketing,3.33
+Manipur,Web Designer,2.74
+Manipur,Machine Learning,3.96
+Manipur,Data Science,5.28
+Manipur,Information Technology,4.41
+Manipur,Analytics,2.96
+Manipur,Database management,3.99
+Manipur,Cybersecurity,4.69
+Manipur,Automation,4.49
+Manipur,Electronics & Telecommunication,3.51
+Manipur,Instrumentation ,4.06
+Manipur,Embedded Systems,5.11
+Manipur,Robotics,2.81
+Manipur,Telecommunications,2.44
+Manipur,Civil ,4.96
+Manipur,Structural Engineering,4.21
+Manipur,Geotechnical Engineering,5.17
+Manipur,Environmental Engineering,3.57
+Manipur,Water Resource Engineering,5.04
+Manipur,Mechanical ,5.49
+Manipur,Aerospace,4.6
+Manipur,Mechanical Design,3.52
+Manipur,Manufacturing ,3.68
+Meghalaya,Computer Science,3.53
+Meghalaya,Software Engineering,3.78
+Meghalaya,Digital Marketing,2.82
+Meghalaya,Web Designer,2.81
+Meghalaya,Machine Learning,4.06
+Meghalaya,Data Science,5.41
+Meghalaya,Information Technology,4.52
+Meghalaya,Analytics,3.03
+Meghalaya,Database management,4.09
+Meghalaya,Cybersecurity,4.81
+Meghalaya,Automation,4.6
+Meghalaya,Electronics & Telecommunication,3.06
+Meghalaya,Instrumentation ,6.24
+Meghalaya,Embedded Systems,2.32
+Meghalaya,Robotics,2.88
+Meghalaya,Telecommunications,2.51
+Meghalaya,Civil ,3.69
+Meghalaya,Structural Engineering,4.32
+Meghalaya,Geotechnical Engineering,5.3
+Meghalaya,Environmental Engineering,3.66
+Meghalaya,Water Resource Engineering,5.16
+Meghalaya,Mechanical ,5.99
+Meghalaya,Aerospace,4.71
+Meghalaya,Mechanical Design,3.61
+Meghalaya,Manufacturing ,3.77
+Mizoram,Computer Science,3.53
+Mizoram,Software Engineering,6.02
+Mizoram,Digital Marketing,3.05
+Mizoram,Web Designer,2.8
+Mizoram,Machine Learning,4.05
+Mizoram,Data Science,5.39
+Mizoram,Information Technology,6.31
+Mizoram,Analytics,3.02
+Mizoram,Database management,4.08
+Mizoram,Cybersecurity,4.79
+Mizoram,Automation,4.58
+Mizoram,Electronics & Telecommunication,3.05
+Mizoram,Instrumentation ,4.14
+Mizoram,Embedded Systems,4.97
+Mizoram,Robotics,2.87
+Mizoram,Telecommunications,2.5
+Mizoram,Civil ,3.88
+Mizoram,Structural Engineering,4.3
+Mizoram,Geotechnical Engineering,5.28
+Mizoram,Environmental Engineering,3.65
+Mizoram,Water Resource Engineering,5.14
+Mizoram,Mechanical ,5.42
+Mizoram,Aerospace,4.69
+Mizoram,Mechanical Design,3.59
+Mizoram,Manufacturing ,3.75
+Nagaland,Computer Science,2.85
+Nagaland,Software Engineering,6.02
+Nagaland,Digital Marketing,8.72
+Nagaland,Web Designer,2.73
+Nagaland,Machine Learning,3.92
+Nagaland,Data Science,5.25
+Nagaland,Information Technology,4.98
+Nagaland,Analytics,2.94
+Nagaland,Database management,3.16
+Nagaland,Cybersecurity,4.66
+Nagaland,Automation,2.96
+Nagaland,Electronics & Telecommunication,4.03
+Nagaland,Instrumentation ,4.03
+Nagaland,Embedded Systems,5.08
+Nagaland,Robotics,2.79
+Nagaland,Telecommunications,3.26
+Nagaland,Civil ,2.23
+Nagaland,Structural Engineering,4.18
+Nagaland,Geotechnical Engineering,5.14
+Nagaland,Environmental Engineering,3.55
+Nagaland,Water Resource Engineering,5
+Nagaland,Mechanical ,5.14
+Nagaland,Aerospace,4.57
+Nagaland,Mechanical Design,3.5
+Nagaland,Manufacturing ,3.65
+Orissa,Computer Science,2.14
+Orissa,Software Engineering,4.76
+Orissa,Digital Marketing,2.32
+Orissa,Web Designer,2.3
+Orissa,Machine Learning,8.17
+Orissa,Data Science,7.69
+Orissa,Information Technology,2.2
+Orissa,Analytics,1.85
+Orissa,Database management,3.84
+Orissa,Cybersecurity,3.54
+Orissa,Automation,7.94
+Orissa,Electronics & Telecommunication,2.21
+Orissa,Instrumentation ,2.94
+Orissa,Embedded Systems,2.61
+Orissa,Robotics,1.58
+Orissa,Telecommunications,1.87
+Orissa,Civil ,3.59
+Orissa,Structural Engineering,3.8
+Orissa,Geotechnical Engineering,4.91
+Orissa,Environmental Engineering,3.5
+Orissa,Water Resource Engineering,5.41
+Orissa,Mechanical ,5.65
+Orissa,Aerospace,3.87
+Orissa,Mechanical Design,2.56
+Orissa,Manufacturing ,3.22
+Punjab,Computer Science,3.86
+Punjab,Software Engineering,4.83
+Punjab,Digital Marketing,3.01
+Punjab,Web Designer,2.77
+Punjab,Machine Learning,3.77
+Punjab,Data Science,3.91
+Punjab,Information Technology,2.95
+Punjab,Analytics,3.16
+Punjab,Database management,1.56
+Punjab,Cybersecurity,7.73
+Punjab,Automation,4.93
+Punjab,Electronics & Telecommunication,2.34
+Punjab,Instrumentation ,4.21
+Punjab,Embedded Systems,3.64
+Punjab,Robotics,4.99
+Punjab,Telecommunications,1.75
+Punjab,Civil ,2.68
+Punjab,Structural Engineering,3
+Punjab,Geotechnical Engineering,5.18
+Punjab,Environmental Engineering,3
+Punjab,Water Resource Engineering,5.13
+Punjab,Mechanical ,5.75
+Punjab,Aerospace,4.04
+Punjab,Mechanical Design,2.97
+Punjab,Manufacturing ,2.54
+Rajasthan,Computer Science,2.43
+Rajasthan,Software Engineering,5.45
+Rajasthan,Digital Marketing,2.82
+Rajasthan,Web Designer,2.8
+Rajasthan,Machine Learning,5.84
+Rajasthan,Data Science,4.32
+Rajasthan,Information Technology,2.95
+Rajasthan,Analytics,7.57
+Rajasthan,Database management,4.23
+Rajasthan,Cybersecurity,2.24
+Rajasthan,Automation,4.2
+Rajasthan,Electronics & Telecommunication,2.58
+Rajasthan,Instrumentation ,4.13
+Rajasthan,Embedded Systems,2.28
+Rajasthan,Robotics,1.68
+Rajasthan,Telecommunications,5.87
+Rajasthan,Civil ,3.39
+Rajasthan,Structural Engineering,5.89
+Rajasthan,Geotechnical Engineering,5.4
+Rajasthan,Environmental Engineering,3.37
+Rajasthan,Water Resource Engineering,2.65
+Rajasthan,Mechanical ,5.45
+Rajasthan,Aerospace,4.42
+Rajasthan,Mechanical Design,5
+Rajasthan,Manufacturing ,3.06
+Sikkim,Computer Science,2.8
+Sikkim,Software Engineering,6.02
+Sikkim,Digital Marketing,1.6
+Sikkim,Web Designer,2.69
+Sikkim,Machine Learning,3.88
+Sikkim,Data Science,5.17
+Sikkim,Information Technology,4.31
+Sikkim,Analytics,5.64
+Sikkim,Database management,3.9
+Sikkim,Cybersecurity,4.49
+Sikkim,Automation,4.4
+Sikkim,Electronics & Telecommunication,1.56
+Sikkim,Instrumentation ,3.97
+Sikkim,Embedded Systems,5
+Sikkim,Robotics,2.76
+Sikkim,Telecommunications,2.54
+Sikkim,Civil ,3.23
+Sikkim,Structural Engineering,4.12
+Sikkim,Geotechnical Engineering,4.98
+Sikkim,Environmental Engineering,3.51
+Sikkim,Water Resource Engineering,4.93
+Sikkim,Mechanical ,5.3
+Sikkim,Aerospace,4.49
+Sikkim,Mechanical Design,3.44
+Sikkim,Manufacturing ,3.59
+Tamil Nadu,Computer Science,2.09
+Tamil Nadu,Software Engineering,5.51
+Tamil Nadu,Digital Marketing,2.72
+Tamil Nadu,Web Designer,2.79
+Tamil Nadu,Machine Learning,7.64
+Tamil Nadu,Data Science,13.58
+Tamil Nadu,Information Technology,2.54
+Tamil Nadu,Analytics,2.96
+Tamil Nadu,Database management,5.61
+Tamil Nadu,Cybersecurity,6.75
+Tamil Nadu,Automation,6.82
+Tamil Nadu,Electronics & Telecommunication,2.41
+Tamil Nadu,Instrumentation ,2.37
+Tamil Nadu,Embedded Systems,2.16
+Tamil Nadu,Robotics,3.56
+Tamil Nadu,Telecommunications,1.81
+Tamil Nadu,Civil ,2.64
+Tamil Nadu,Structural Engineering,3.86
+Tamil Nadu,Geotechnical Engineering,8.46
+Tamil Nadu,Environmental Engineering,2.69
+Tamil Nadu,Water Resource Engineering,2.72
+Tamil Nadu,Mechanical ,5.4
+Tamil Nadu,Aerospace,7.03
+Tamil Nadu,Mechanical Design,2.58
+Tamil Nadu,Manufacturing ,3.07
+Tripura,Computer Science,2.81
+Tripura,Software Engineering,6.79
+Tripura,Digital Marketing,3.05
+Tripura,Web Designer,2.74
+Tripura,Machine Learning,3.89
+Tripura,Data Science,5.19
+Tripura,Information Technology,4.33
+Tripura,Analytics,2.91
+Tripura,Database management,5.46
+Tripura,Cybersecurity,4.51
+Tripura,Automation,4.42
+Tripura,Electronics & Telecommunication,5.8
+Tripura,Instrumentation ,4
+Tripura,Embedded Systems,5.02
+Tripura,Robotics,2.77
+Tripura,Telecommunications,2.39
+Tripura,Civil ,2.94
+Tripura,Structural Engineering,4.14
+Tripura,Geotechnical Engineering,5
+Tripura,Environmental Engineering,3.53
+Tripura,Water Resource Engineering,4.95
+Tripura,Mechanical ,6.36
+Tripura,Aerospace,4.51
+Tripura,Mechanical Design,3.46
+Tripura,Manufacturing ,3.61
+Uttarakhand,Computer Science,2.94
+Uttarakhand,Software Engineering,4.85
+Uttarakhand,Digital Marketing,2.81
+Uttarakhand,Web Designer,2.48
+Uttarakhand,Machine Learning,2.84
+Uttarakhand,Data Science,4.69
+Uttarakhand,Information Technology,4.52
+Uttarakhand,Analytics,2.66
+Uttarakhand,Database management,5.69
+Uttarakhand,Cybersecurity,4.71
+Uttarakhand,Automation,6.13
+Uttarakhand,Electronics & Telecommunication,2.33
+Uttarakhand,Instrumentation ,4.42
+Uttarakhand,Embedded Systems,2.74
+Uttarakhand,Robotics,2.9
+Uttarakhand,Telecommunications,1.9
+Uttarakhand,Civil ,2.98
+Uttarakhand,Structural Engineering,3.16
+Uttarakhand,Geotechnical Engineering,5.21
+Uttarakhand,Environmental Engineering,3.68
+Uttarakhand,Water Resource Engineering,5.16
+Uttarakhand,Mechanical ,5.72
+Uttarakhand,Aerospace,4.7
+Uttarakhand,Mechanical Design,3.21
+Uttarakhand,Manufacturing ,4.01
+Uttar Pradesh,Computer Science,3.13
+Uttar Pradesh,Software Engineering,3.82
+Uttar Pradesh,Digital Marketing,2.92
+Uttar Pradesh,Web Designer,2.86
+Uttar Pradesh,Machine Learning,7.43
+Uttar Pradesh,Data Science,10.28
+Uttar Pradesh,Information Technology,4.86
+Uttar Pradesh,Analytics,4.13
+Uttar Pradesh,Database management,3
+Uttar Pradesh,Cybersecurity,7.66
+Uttar Pradesh,Automation,6.27
+Uttar Pradesh,Electronics & Telecommunication,2.49
+Uttar Pradesh,Instrumentation ,4.02
+Uttar Pradesh,Embedded Systems,6.88
+Uttar Pradesh,Robotics,3.35
+Uttar Pradesh,Telecommunications,3.28
+Uttar Pradesh,Civil ,3.49
+Uttar Pradesh,Structural Engineering,5.17
+Uttar Pradesh,Geotechnical Engineering,5.61
+Uttar Pradesh,Environmental Engineering,3.42
+Uttar Pradesh,Water Resource Engineering,4.21
+Uttar Pradesh,Mechanical ,5.66
+Uttar Pradesh,Aerospace,4.55
+Uttar Pradesh,Mechanical Design,2.65
+Uttar Pradesh,Manufacturing ,5.52
+West Bengal,Computer Science,2.58
+West Bengal,Software Engineering,4.1
+West Bengal,Digital Marketing,2.59
+West Bengal,Web Designer,2.39
+West Bengal,Machine Learning,9.07
+West Bengal,Data Science,8.51
+West Bengal,Information Technology,2.18
+West Bengal,Analytics,2.51
+West Bengal,Database management,3.12
+West Bengal,Cybersecurity,2.45
+West Bengal,Automation,3.94
+West Bengal,Electronics & Telecommunication,2.1
+West Bengal,Instrumentation ,5.09
+West Bengal,Embedded Systems,5.74
+West Bengal,Robotics,2
+West Bengal,Telecommunications,11.34
+West Bengal,Civil ,2.86
+West Bengal,Structural Engineering,6.96
+West Bengal,Geotechnical Engineering,5.25
+West Bengal,Environmental Engineering,4.02
+West Bengal,Water Resource Engineering,5.2
+West Bengal,Mechanical ,5.44
+West Bengal,Aerospace,5.02
+West Bengal,Mechanical Design,3.2
+West Bengal,Manufacturing ,2.08
+Andaman and Nicobar Islands,Computer Science,2.89
+Andaman and Nicobar Islands,Software Engineering,8.52
+Andaman and Nicobar Islands,Digital Marketing,3
+Andaman and Nicobar Islands,Web Designer,2.77
+Andaman and Nicobar Islands,Machine Learning,4
+Andaman and Nicobar Islands,Data Science,5.32
+Andaman and Nicobar Islands,Information Technology,4.44
+Andaman and Nicobar Islands,Analytics,4
+Andaman and Nicobar Islands,Database management,4.01
+Andaman and Nicobar Islands,Cybersecurity,4.63
+Andaman and Nicobar Islands,Automation,6.2
+Andaman and Nicobar Islands,Electronics & Telecommunication,3
+Andaman and Nicobar Islands,Instrumentation ,4.09
+Andaman and Nicobar Islands,Embedded Systems,5.02
+Andaman and Nicobar Islands,Robotics,2.85
+Andaman and Nicobar Islands,Telecommunications,2.45
+Andaman and Nicobar Islands,Civil ,6.14
+Andaman and Nicobar Islands,Structural Engineering,4.24
+Andaman and Nicobar Islands,Geotechnical Engineering,5.13
+Andaman and Nicobar Islands,Environmental Engineering,3.62
+Andaman and Nicobar Islands,Water Resource Engineering,5.08
+Andaman and Nicobar Islands,Mechanical ,6.35
+Andaman and Nicobar Islands,Aerospace,5.02
+Andaman and Nicobar Islands,Mechanical Design,3.55
+Andaman and Nicobar Islands,Manufacturing ,3.7
+Delhi,Computer Science,3.03
+Delhi,Software Engineering,5.72
+Delhi,Digital Marketing,3.06
+Delhi,Web Designer,2.71
+Delhi,Machine Learning,5.89
+Delhi,Data Science,9.31
+Delhi,Information Technology,4.31
+Delhi,Analytics,3.17
+Delhi,Database management,3.29
+Delhi,Cybersecurity,4.29
+Delhi,Automation,8.01
+Delhi,Electronics & Telecommunication,2.14
+Delhi,Instrumentation ,3.83
+Delhi,Embedded Systems,5.18
+Delhi,Robotics,5.35
+Delhi,Telecommunications,9.5
+Delhi,Civil ,4.31
+Delhi,Structural Engineering,8.43
+Delhi,Geotechnical Engineering,1.1
+Delhi,Environmental Engineering,3.79
+Delhi,Water Resource Engineering,7.35
+Delhi,Mechanical ,5.06
+Delhi,Aerospace,4.49
+Delhi,Mechanical Design,2.54
+Delhi,Manufacturing ,3.82
+Pondicherry,Computer Science,2.85
+Pondicherry,Software Engineering,1.93
+Pondicherry,Digital Marketing,2.65
+Pondicherry,Web Designer,3.16
+Pondicherry,Machine Learning,3.95
+Pondicherry,Data Science,5.26
+Pondicherry,Information Technology,4.36
+Pondicherry,Analytics,3.03
+Pondicherry,Database management,3.97
+Pondicherry,Cybersecurity,4.57
+Pondicherry,Automation,5.38
+Pondicherry,Electronics & Telecommunication,2.8
+Pondicherry,Instrumentation ,4.04
+Pondicherry,Embedded Systems,2.63
+Pondicherry,Robotics,2.81
+Pondicherry,Telecommunications,1.63
+Pondicherry,Civil ,6.01
+Pondicherry,Structural Engineering,4.2
+Pondicherry,Geotechnical Engineering,5.07
+Pondicherry,Environmental Engineering,3.58
+Pondicherry,Water Resource Engineering,5.02
+Pondicherry,Mechanical ,6.93
+Pondicherry,Aerospace,6.33
+Pondicherry,Mechanical Design,2.27
+Pondicherry,Manufacturing ,3.66
